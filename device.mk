@@ -265,8 +265,9 @@ PRODUCT_PACKAGES += \
 
 # Legacy Encryption
 PRODUCT_PACKAGES += \
-    vendor.qti.hardware.cryptfshw@1.0-service-qti.qsee
-    libshim_binder \
+    vendor.qti.hardware.cryptfshw@1.0-service-qti.qsee \
+    libshim_android \
+    libshim_binder
 
 # Lights
 PRODUCT_PACKAGES += \
