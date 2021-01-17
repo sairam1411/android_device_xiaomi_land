@@ -472,9 +472,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.usb@1.0-service.basic
 
-# QTI Common
-TARGET_COMMON_QTI_COMPONENTS := perf
-
 # Vibrator
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.vibrator.service
@@ -521,13 +518,6 @@ $(call inherit-product-if-exists, vendor/xiaomi/land/land-vendor.mk)
 PRODUCT_PACKAGES += \
     XiaomiParts \
     XiaomiAddon
-
-# Perf
--include vendor/qcom/common/perf/qti-perf.mk
-
-# Do not spin up a separate process for the network stack, use an in-process APK.
-PRODUCT_PACKAGES += InProcessNetworkStack
-PRODUCT_PACKAGES += com.android.tethering.inprocess
 
 # Do not spin up a separate process for the network stack, use an in-process APK.
 PRODUCT_PACKAGES += InProcessNetworkStack
