@@ -40,7 +40,8 @@ TARGET_SCREEN_WIDTH := 720
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
-    $(LOCAL_PATH)/overlay/packages/apps/Snap
+    $(LOCAL_PATH)/overlay/packages/apps/Snap \
+    $(LOCAL_PATH)/overlay/packages/apps/CarrierConfig
 
 # Additional native libraries
 PRODUCT_COPY_FILES += \
