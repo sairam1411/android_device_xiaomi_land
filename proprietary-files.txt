@@ -30,6 +30,12 @@ etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Bluetooth_cal.acdb:vendor/etc/ac
 
 # Camera
 bin/mm-qcamera-daemon:vendor/bin/mm-qcamera-daemon
+vendor/lib/libFaceGrade.so
+vendor/lib/libarcsoft_beauty_shot.so
+vendor/lib/libmmsw_detail_enhancement.so
+vendor/lib/libmmsw_platform.so
+vendor/lib64/libmmsw_detail_enhancement.so
+vendor/lib64/libmmsw_platform.so
 etc/camera/ofilm_s5k5e8_chromatix.xml:vendor/etc/camera/ofilm_s5k5e8_chromatix.xml
 etc/camera/ov13853_q13853a_chromatix.xml:vendor/etc/camera/ov13853_q13853a_chromatix.xml
 etc/camera/ov5670_f5670bq_chromatix.xml:vendor/etc/camera/ov5670_f5670bq_chromatix.xml
