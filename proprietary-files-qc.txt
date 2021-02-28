@@ -686,6 +686,7 @@ lib64/libwfdclient.so|089cca2d14ec6df309934626bd822722a3232dc8
 lib64/libwfdnative.so|fcea3ccd064171ddd9c2d7ce7bc38df324003937
 -priv-app/WfdService/WfdService.apk|b99c24571581465e637c7f6a6efc7c36042e56ea
 vendor/bin/wifidisplayhalservice|9a5bbc21cbcaa50263d2cca5f220d8f435933ac6
+vendor/lib/com.qualcomm.qti.wifidisplayhal@1.0.so|9e1000674de86c91933598297625a71e45828dc8
 vendor/etc/init/com.qualcomm.qti.wifidisplayhal@1.0-service.rc|04e463342cbba4c0e9c311a18238f95dec9359fd
 vendor/lib/com.qualcomm.qti.wifidisplayhal@1.0-halimpl.so|04334ac3883c64b6201cef433ff9c3045585890a
 vendor/lib/libwfdcommonutils_proprietary.so|1d0b71c302a88ee30b33660e005fccdbabae904a
