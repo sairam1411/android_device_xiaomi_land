@@ -391,6 +391,7 @@ PRODUCT_PACKAGES += \
     qti-telephony-utils \
     qti_telephony_utils.xml \
     ims_ext_common.xml \
+    libprotobuf-cpp-full \
     telephony-ext
 
 PRODUCT_PACKAGES += \
