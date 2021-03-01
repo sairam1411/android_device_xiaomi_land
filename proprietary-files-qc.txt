@@ -567,6 +567,7 @@ vendor/etc/init/imsqmidaemon.rc|dda16d842b7c65296e97bc9921b723a43b152ba3
 vendor/lib64/com.qualcomm.qti.imscmservice@1.0.so|4277813903d74f9cf966e3a82c0ba2994ae75336
 vendor/lib64/com.qualcomm.qti.imscmservice@2.0.so|912e8e6200425cad5450f4096f4418711c7c952d
 vendor/lib64/com.qualcomm.qti.imscmservice@2.1.so|1f4b260415b58dde9c9f4d61ef4ba34e60b698ac
+vendor/lib64/com.qualcomm.qti.imscmservice@2.2.so|8529b2e365187d7e8c1d6b0b2351a1530690614c
 vendor/lib64/com.qualcomm.qti.uceservice@2.0.so|fdbad425489b51564b8294561808e402255057d4
 vendor/lib64/com.qualcomm.qti.uceservice@2.1.so|7bb5acd57799c3ca038441086325de1d9af66ca5
 vendor/lib64/com.qualcomm.qti.uceservice@2.2.so|bec09f0829f49b5011604f8259dc3ce87629a3ce
